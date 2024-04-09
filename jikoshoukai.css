@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+.syoukai{
+    text-align: center;
+    font-size: 25px;
+    width: 500px;               /* 幅指定 */
+    height: 330px;                 /* 高さ指定 */
+    margin: 0 auto;
+    padding-top: 40px; 
+    padding-left: 85px;
+    padding-right: 85px; 
+    padding-bottom: 10px;      
+    border: solid #dcdcdc;     /* 枠線指定 */
+    background-color: #ffffff;     /* 背景色指定 */
+    border-radius: 20px;        /* 角丸指定 */
+}
+.rinku{
+    margin-top: 70px;
+    font-size: 20px;
+}

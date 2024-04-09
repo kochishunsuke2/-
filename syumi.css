@@ -1,0 +1,55 @@
+h1{
+    font-size: 40px;
+    border-bottom: solid #1e90ff;
+}
+#anime{
+    text-align: center;
+    font-size: 20px;
+    width: 400px;               /* 幅指定 */
+    height: 330px;                 /* 高さ指定 */
+    margin: 0 auto;
+    padding-top: 10px; 
+    padding-left: 50px;
+    padding-right: 50px;       
+    border: solid #ff0000;
+    box-shadow: 5px 5px 5px ;     /* 枠線指定 */
+    background-color: #ffffff;     /* 背景色指定 */
+    border-radius: 20px;        /* 角丸指定 */
+}
+#flex{
+    display: flex;/*横並び*/
+    justify-content: space-between;/*右寄せ　左寄せ*/
+}
+.game{
+    text-align: center;
+    font-size: 20px;
+    width: 400px;               /* 幅指定 */
+    height: 330px;                 /* 高さ指定 */
+    padding-top: 10px; 
+    padding-left: 50px;
+    padding-right: 50px;       
+    border: solid #0000ff;     /* 枠線指定 */
+    box-shadow: 5px 5px 5px ;
+    background-color: #ffffff;     /* 背景色指定 */
+    border-radius: 20px;        /* 角丸指定 */
+}
+.terebi{
+    text-align: center;
+    font-size: 20px;
+    width: 400px;               /* 幅指定 */
+    height: 330px;                 /* 高さ指定 */
+    padding-top: 10px; 
+    padding-left: 50px;
+    padding-right: 50px;       
+    border: solid #00ff00;     /* 枠線指定 */
+    box-shadow: 5px 5px 5px ;
+    background-color: #ffffff;     /* 背景色指定 */
+    border-radius: 20px;        /* 角丸指定 */
+}
+.rinku{
+    margin-top: 70px;
+    font-size: 20px;
+}
+strong{
+    border-bottom: solid #ffff00;
+}

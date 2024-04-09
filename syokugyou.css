@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+    gap: 170px;   
+}
+.flex2{
+    display: flex;
+    gap: 100px;    /*横並びした時の間余白設定*/
+}
+img{
+    width: 500px;               /* 幅指定 */
+    height: 350px;                 /* 高さ指定 */
+}
+ol{
+    font-size: 30px;
+}
+.rinku{
+    margin-top: 70px;
+    font-size: 20px;
+}
+strong{
+    border-bottom: solid #ffff00 4px;
+}
